@@ -4,9 +4,9 @@
 
 <img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/raw/main/Infograf%C3%ADa/01%20Agentes.webp" alt="Agente" width="400"/>
 
-## ¿Qué es un modelo en Intelgencia Artificial?
+## ¿Qué es un modelo en Inteligencia Artificial?
 <img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/02%20modelo%20IA.webp" alt="Modelo" width="400"/>
 
-## ¿Qué es un preentrenado?
-<img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/02%20modelo%20IA.webp" alt="Modelo" width="400"/>
+## ¿Qué es un modelo preentrenado?
+<img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/03%20modelo%20preentrenado.png" alt="Modelo" width="400"/>
 
