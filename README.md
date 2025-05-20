@@ -17,8 +17,12 @@
 3. Ejecutar la celdas paso a paso.
 4. Realizar los ejercicios propuestos al final del notebook.
 
+## Información de interés
 
-# Sígueme en mis redes sociales profesionales
+- [OpenAI actualiza sus modelos de IA: GPT-4.1 y 4.1 mini ya están disponibles](https://computerhoy.20minutos.es/tecnologia/openai-actualiza-modelos-ia-gpt-41-41-mini-ya-estan-disponibles-1461312)
+
+
+## Sígueme en mis redes sociales profesionales
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align:middle;"/>](https://www.linkedin.com/in/davidriveraarbelaez/)
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" style="vertical-align:middle;"/>](https://github.com/davidriveraarbelaez)
