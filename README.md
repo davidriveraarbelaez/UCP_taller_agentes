@@ -10,3 +10,14 @@
 ## ¿Qué es un modelo preentrenado?
 <img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/03%20modelo%20preentrenado.png" alt="Modelo" width="400"/>
 
+## Taller práctico
+
+1.
+
+
+# Sígueme en mis redes sociales profesionales
+
+- [LinkedIn](https://www.linkedin.com/in/davidriveraarbelaez/)
+- [GitHub](https://github.com/davidriveraarbelaez)
+
+- [Bento](https://bento.me/davidriveraarbelaez)
