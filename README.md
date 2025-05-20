@@ -18,6 +18,5 @@
 # Sígueme en mis redes sociales profesionales
 
 - [LinkedIn](https://www.linkedin.com/in/davidriveraarbelaez/)
-- [GitHub](https://github.com/davidriveraarbelaez)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" style="vertical-align:middle;"/> GitHub](https://github.com/davidriveraarbelaez)[GitHub](https://github.com/davidriveraarbelaez)
 
-- [Bento](https://bento.me/davidriveraarbelaez)
