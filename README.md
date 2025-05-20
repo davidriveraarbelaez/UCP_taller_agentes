@@ -20,6 +20,6 @@
 
 # Sígueme en mis redes sociales profesionales
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align:middle;"/> LinkedIn](https://www.linkedin.com/in/davidriveraarbelaez/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align:middle;"/>](https://www.linkedin.com/in/davidriveraarbelaez/)
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" style="vertical-align:middle;"/> GitHub](https://github.com/davidriveraarbelaez)
 
