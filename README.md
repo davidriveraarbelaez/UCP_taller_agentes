@@ -12,7 +12,8 @@
 
 ## Taller práctico
 
-1.
+1. Crear una cuenta de Google Colab con un correo diferente al institucional.
+2. Acceder al [notebook del Taller](https://colab.research.google.com/drive/1Uzf0daDg-illBAtB6o27xqPTs2W4JImJ?usp=sharing) 
 
 
 # Sígueme en mis redes sociales profesionales
