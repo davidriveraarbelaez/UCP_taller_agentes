@@ -13,13 +13,12 @@
 ## Ejemplos de agentes de IA
 
 - [GitHub Copilot](https://github.com/features/copilot)
-<img src=">
+<img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/GitHub%20Copilot.png" alt="GitHub Copilot" width="400"/>
 
 - [Jules de Google](https://jules.google)
 <img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/Jules%20Google.webp" alt="Jules Google" width="400"/>
 
 - [V0 de Vercel](https://vercel.com/v0)
-
 <img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/V0%20Vercel.webp" alt="V0 Vercel" width="400"/>
 
 
