@@ -10,6 +10,10 @@
 ## ¿Qué es un modelo preentrenado?
 <img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/03%20modelo%20preentrenado.png" alt="Modelo" width="400"/>
 
+## Ejemplos de agentes de IA
+
+<img src=">
+
 ## Taller práctico
 
 1. Crear una cuenta de Google Colab con un correo diferente al institucional.
