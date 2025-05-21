@@ -12,7 +12,8 @@
 
 ## Ejemplos de agentes de IA
 
-<img src=">
+- [Jules de Google](https://jules.google)
+<img src="https://github.com/davidriveraarbelaez/UCP_taller_agentes/blob/main/Infograf%C3%ADa/Jules%20Google.webp" alt="Jules Google" width="400"/>
 
 ## Taller práctico
 
